@@ -1,6 +1,6 @@
 # Welcome!
 
-My name is Nikolai Starostin and recently I started to learn how to build websites on (The Odin Project)[https://www.theodinproject.com]. 
+My name is Nikolai Starostin and recently I started to learn how to build websites on [The Odin Project](https://www.theodinproject.com). 
 
 Here is a first project called **Recipes**.
 
