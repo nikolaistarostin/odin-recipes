@@ -8,4 +8,6 @@ You can check out the website here: [Preview](https://nikolaistarostin.github.io
 
 This website contains images and links. Since it has no CSS, website looks very simple. I may revisit it later and add some styles or even built another website which will be even better.
 
+UPD: Added CSS and styles, website looks better now :)
+
 Thank you a lot for spending time on my website, hope you have enjoyed it. If you have any suggestions, email me at **nikolstarostin@gmail.com**.
